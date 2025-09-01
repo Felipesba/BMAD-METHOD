@@ -44,3 +44,6 @@ test-project-install/*
 sample-project/*
 flattened-codebase.xml
 *.stats.md
+# BMAD (local only)
+.bmad-core/
+.bmad-*/

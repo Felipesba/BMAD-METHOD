@@ -21,3 +21,7 @@ devLoadAlwaysFiles:
 devDebugLog: .ai/debug-log.md
 devStoryLocation: docs/stories
 slashPrefix: BMad
+agents:
+  - agents/po-custodia.yaml
+  - agents/analyst-fsi.yaml
+  - agents/data-architect-custody.yaml

@@ -1,0 +1,8 @@
+renda_fixa:
+  preco: 0.001 # 0,1%
+  quantidade: 0 # sem tolerância
+acoes:
+  preco: 0.002
+  quantidade: 0
+cambial:
+  fx: 0.0005
